@@ -1,0 +1,2 @@
+# Prelim-Activity
+Static Website
